@@ -33,12 +33,12 @@ Each song is represented as a node in a doubly linked list. This allows efficien
 
 2. **Compile the Program**:
    ```bash
-   gcc music.c -o music
+   gcc song.c -o song
    ```
 
 3. **Run the Program**:
    ```bash
-   ./music
+   ./song
    ```
 
 4. **Menu Options**:
