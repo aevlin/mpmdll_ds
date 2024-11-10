@@ -128,11 +128,6 @@ Duration: 573 seconds
 
 - **Empty Playlist**: If there are no songs in the playlist, the program will notify the user for actions such as removing, searching, or shuffling.
 - **Song Not Found**: If a song title is not found in the playlist, a message will inform the user that the song does not exist.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy managing your playlist with **Music Playlist Management Using Doubly Linked List**! 🎧
